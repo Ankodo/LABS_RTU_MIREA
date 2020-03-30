@@ -1,2 +1,2 @@
-# HomeWork_2
-My programming homework
+# LABS in C++
+My programming labs
